@@ -38,10 +38,6 @@ Edit
 Open index.html in your browser.
 
 Start catching emojis! 🎉
-
-📸 Screenshot (Optional)
-Add a screenshot of the game here.
-
 📜 License
 This project is open-source and available under the MIT License.
 
